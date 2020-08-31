@@ -3,7 +3,7 @@ Take your Python skills to the next level with this intermediate Python course. 
 
 
 Contents ⭐️
-[ ] Intro
+[] Intro
 
 [ ] Lists
 
