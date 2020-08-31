@@ -2,48 +2,49 @@
 Take your Python skills to the next level with this intermediate Python course. First, you will get a review of basic concepts such as lists, strings, and dictionaries, but with an emphasis on some lesser known capabilities. Then, you will learn more advanced topics such as threading, multiprocessing, context managers, generators, and more.
 
 
-Contents ⭐️
-[] Intro
+Contents:
 
-[ ] Lists
+-[ ] Intro
 
-[ ] Tuples
+- [ ]  Lists
 
-[ ] Dictionaries
+- [ ]  Tuples
 
-[ ] Sets
+- [ ] Dictionaries
 
-[ ] Strings
+- [ ] Sets
 
-[ ] Collections
+- [ ] Strings
 
-[ ] Itertools
+- [ ] Collections
 
-[ ] Lambda Functions
+- [ ] Itertools
 
-[ ] Exceptions and Errors
+- [ ]  Lambda Functions
 
-[ ] Logging
+- [ ]  Exceptions and Errors
 
-[ ] JSON
+- [ ]  Logging
 
-[ ] Random Numbers
+- [ ] JSON
 
-[ ] Decorators
+- [ ] Random Numbers
 
-[ ] Generators
+- [ ] Decorators
 
-[ ] Threading vs Multiprocessing
+- [ ] Generators
 
-[ ] Multithreading
+- [ ]  Threading vs Multiprocessing
 
-[ ] Multiprocessing
+- [ ]  Multithreading
 
-[ ] Function Arguments
+- [ ] Multiprocessing
 
-[ ] The Asterisk (*) Operator
+- [ ]  Function Arguments
 
-[ ] Shallow vs Deep Copying
+- [ ] The Asterisk (*) Operator
 
-[ ] Context Managers
+- [ ]  Shallow vs Deep Copying
+
+- [ ]  Context Managers
 
